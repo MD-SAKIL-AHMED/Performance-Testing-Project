@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1733504269128,3084,https://practice.expandtesting.com/login,200,OK,Thread Group 1-1,text,true,,1130296,10198,1,1,https://practice.expandtesting.com/login,991,0,448
+1733504269128,1229,https://practice.expandtesting.com/login-0,200,OK,Thread Group 1-1,text,true,,12339,612,1,1,https://practice.expandtesting.com/login,991,0,448
+1733504270429,303,https://practice.expandtesting.com/login-1,200,OK,Thread Group 1-1,bin,true,,1475,717,1,1,https://practice.expandtesting.com/assets/images/favicon.png,296,0,0
+1733504270452,675,https://practice.expandtesting.com/login-2,200,OK,Thread Group 1-1,text,true,,221548,650,1,1,https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css,343,0,270
+1733504270452,666,https://practice.expandtesting.com/login-3,200,OK,Thread Group 1-1,text,true,,4730,722,1,1,https://practice.expandtesting.com/assets/css/main.css?v=da0276bd,611,0,126
+1733504270453,332,https://practice.expandtesting.com/login-4,200,OK,Thread Group 1-1,text,true,,90557,615,1,1,https://code.jquery.com/jquery-3.6.3.min.js,252,0,195
+1733504270455,411,https://practice.expandtesting.com/login-5,200,OK,Thread Group 1-1,text,true,,80563,648,1,1,https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js,315,0,239
+1733504270503,271,https://practice.expandtesting.com/login-6,200,OK,Thread Group 1-1,text,true,,20168,645,1,1,https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js,258,0,189
+1733504270734,418,https://practice.expandtesting.com/login-7,200,OK,Thread Group 1-1,text,true,,422775,628,1,1,https://www.googletagmanager.com/gtag/js?id=G-90GRT6N40B,233,0,159
+1733504270777,412,https://practice.expandtesting.com/login-8,200,OK,Thread Group 1-1,text,true,,160248,665,1,1,https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1056034821646296,253,0,147
+1733504270794,325,https://practice.expandtesting.com/login-9,200,OK,Thread Group 1-1,text,true,,2407,714,1,1,https://practice.expandtesting.com/assets/images/logo.svg,324,0,0
+1733504270867,1345,https://practice.expandtesting.com/login-10,200,OK,Thread Group 1-1,bin,true,,60117,710,1,1,https://practice.expandtesting.com/img/auth-login.png,794,0,469
+1733504271119,299,https://practice.expandtesting.com/login-11,200,OK,Thread Group 1-1,text,true,,3227,737,1,1,https://practice.expandtesting.com/assets/plugins/back-to-top/back-to-top.min.js,299,0,0
+1733504271121,297,https://practice.expandtesting.com/login-12,200,OK,Thread Group 1-1,text,true,,2875,709,1,1,https://practice.expandtesting.com/assets/js/main.js,297,0,0
+1733504271153,432,https://practice.expandtesting.com/login-13,200,OK,Thread Group 1-1,text,true,,797,708,1,1,https://practice.expandtesting.com/script/script.js,432,0,138
+1733504271191,877,https://practice.expandtesting.com/login-14,200,OK,Thread Group 1-1,text,true,,46470,718,1,1,https://practice.expandtesting.com/socket.io/socket.io.min.js,466,0,116
+1733504272272,1861,https://practice.expandtesting.com/login,200,OK,Thread Group 1-2,text,true,,1130123,10198,2,2,https://practice.expandtesting.com/login,485,0,154
+1733504272272,485,https://practice.expandtesting.com/login-0,200,OK,Thread Group 1-2,text,true,,12339,612,2,2,https://practice.expandtesting.com/login,485,0,154
+1733504272797,295,https://practice.expandtesting.com/login-1,200,OK,Thread Group 1-2,bin,true,,1475,717,2,2,https://practice.expandtesting.com/assets/images/favicon.png,295,0,0
+1733504272797,616,https://practice.expandtesting.com/login-2,200,OK,Thread Group 1-2,text,true,,221548,650,2,2,https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css,237,0,164
+1733504272797,442,https://practice.expandtesting.com/login-3,200,OK,Thread Group 1-2,text,true,,4730,722,2,2,https://practice.expandtesting.com/assets/css/main.css?v=da0276bd,427,0,116
+1733504272798,701,https://practice.expandtesting.com/login-4,200,OK,Thread Group 1-2,text,true,,90557,615,2,2,https://code.jquery.com/jquery-3.6.3.min.js,224,0,161
+1733504272799,644,https://practice.expandtesting.com/login-5,200,OK,Thread Group 1-2,text,true,,80563,648,2,2,https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js,261,0,182
+1733504272803,189,https://practice.expandtesting.com/login-6,200,OK,Thread Group 1-2,text,true,,20158,645,2,2,https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js,189,0,116
+1733504272993,558,https://practice.expandtesting.com/login-7,200,OK,Thread Group 1-2,text,true,,422760,628,2,2,https://www.googletagmanager.com/gtag/js?id=G-90GRT6N40B,213,0,122
+1733504273092,353,https://practice.expandtesting.com/login-8,200,OK,Thread Group 1-2,text,true,,160234,665,2,2,https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1056034821646296,186,0,106
+1733504273240,470,https://practice.expandtesting.com/login-9,200,OK,Thread Group 1-2,text,true,,2407,714,2,2,https://practice.expandtesting.com/assets/images/logo.svg,465,0,171
+1733504273446,581,https://practice.expandtesting.com/login-10,200,OK,Thread Group 1-2,bin,true,,60117,710,2,2,https://practice.expandtesting.com/img/auth-login.png,431,0,133
+1733504273446,431,https://practice.expandtesting.com/login-11,200,OK,Thread Group 1-2,text,true,,3227,737,2,2,https://practice.expandtesting.com/assets/plugins/back-to-top/back-to-top.min.js,431,0,135
+1733504273500,454,https://practice.expandtesting.com/login-12,200,OK,Thread Group 1-2,text,true,,2875,709,2,2,https://practice.expandtesting.com/assets/js/main.js,414,0,120
+1733504273503,438,https://practice.expandtesting.com/login-13,200,OK,Thread Group 1-2,text,true,,797,708,2,2,https://practice.expandtesting.com/script/script.js,438,0,142
+1733504273553,580,https://practice.expandtesting.com/login-14,200,OK,Thread Group 1-2,text,true,,46336,718,2,2,https://practice.expandtesting.com/socket.io/socket.io.min.js,420,0,124
+1733504275651,2411,https://practice.expandtesting.com/login,200,OK,Thread Group 1-3,text,true,,1130232,10198,3,3,https://practice.expandtesting.com/login,484,0,186
+1733504275651,505,https://practice.expandtesting.com/login-0,200,OK,Thread Group 1-3,text,true,,12339,612,3,3,https://practice.expandtesting.com/login,484,0,186
+1733504276214,427,https://practice.expandtesting.com/login-1,200,OK,Thread Group 1-3,bin,true,,1475,717,3,3,https://practice.expandtesting.com/assets/images/favicon.png,418,0,123
+1733504276215,554,https://practice.expandtesting.com/login-2,200,OK,Thread Group 1-3,text,true,,221548,650,3,3,https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css,223,0,141
+1733504276214,664,https://practice.expandtesting.com/login-3,200,OK,Thread Group 1-3,text,true,,4730,722,3,3,https://practice.expandtesting.com/assets/css/main.css?v=da0276bd,307,0,0
+1733504276214,326,https://practice.expandtesting.com/login-4,200,OK,Thread Group 1-3,text,true,,90557,615,3,3,https://code.jquery.com/jquery-3.6.3.min.js,208,0,138
+1733504276216,594,https://practice.expandtesting.com/login-5,200,OK,Thread Group 1-3,text,true,,80563,648,3,3,https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js,227,0,142
+1733504276218,117,https://practice.expandtesting.com/login-6,200,OK,Thread Group 1-3,text,true,,20164,645,3,3,https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js,116,0,40
+1733504276336,423,https://practice.expandtesting.com/login-7,200,OK,Thread Group 1-3,text,true,,422778,628,3,3,https://www.googletagmanager.com/gtag/js?id=G-90GRT6N40B,212,0,116
+1733504276541,442,https://practice.expandtesting.com/login-8,200,OK,Thread Group 1-3,text,true,,160233,665,3,3,https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1056034821646296,206,0,127
+1733504276641,1421,https://practice.expandtesting.com/login-9,200,OK,Thread Group 1-3,text,true,,2407,714,3,3,https://practice.expandtesting.com/assets/images/logo.svg,1418,0,1123
+1733504276760,827,https://practice.expandtesting.com/login-10,200,OK,Thread Group 1-3,bin,true,,60117,710,3,3,https://practice.expandtesting.com/img/auth-login.png,413,0,110
+1733504276811,453,https://practice.expandtesting.com/login-11,200,OK,Thread Group 1-3,text,true,,3227,737,3,3,https://practice.expandtesting.com/assets/plugins/back-to-top/back-to-top.min.js,451,0,156
+1733504276811,431,https://practice.expandtesting.com/login-12,200,OK,Thread Group 1-3,text,true,,2875,709,3,3,https://practice.expandtesting.com/assets/js/main.js,430,0,119
+1733504276878,411,https://practice.expandtesting.com/login-13,200,OK,Thread Group 1-3,text,true,,797,708,3,3,https://practice.expandtesting.com/script/script.js,411,0,117
+1733504276984,607,https://practice.expandtesting.com/login-14,200,OK,Thread Group 1-3,text,true,,46422,718,3,3,https://practice.expandtesting.com/socket.io/socket.io.min.js,501,0,143
+1733504280359,1695,https://practice.expandtesting.com/authenticate,200,OK,Thread Group 1-1,text,true,,597281,12247,3,3,https://practice.expandtesting.com/secure,423,0,127
+1733504280359,423,https://practice.expandtesting.com/authenticate-0,302,Found,Thread Group 1-1,text,true,,722,823,3,3,https://practice.expandtesting.com/authenticate,423,0,127
+1733504280783,317,https://practice.expandtesting.com/authenticate-1,200,OK,Thread Group 1-1,text,true,,10032,835,3,3,https://practice.expandtesting.com/secure,298,0,0
+1733504281160,294,https://practice.expandtesting.com/authenticate-2,304,Not Modified,Thread Group 1-1,,true,,242,884,3,3,https://practice.expandtesting.com/assets/images/favicon.png,0,0,0
+1733504281159,67,https://practice.expandtesting.com/authenticate-3,304,Not Modified,Thread Group 1-1,,true,,363,753,3,3,https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css,0,0,0
+1733504281160,435,https://practice.expandtesting.com/authenticate-4,304,Not Modified,Thread Group 1-1,,true,,243,890,3,3,https://practice.expandtesting.com/assets/css/main.css?v=da0276bd,0,0,138
+1733504281161,76,https://practice.expandtesting.com/authenticate-5,304,Not Modified,Thread Group 1-1,,true,,341,747,3,3,https://code.jquery.com/jquery-3.6.3.min.js,0,0,0
+1733504281163,68,https://practice.expandtesting.com/authenticate-6,304,Not Modified,Thread Group 1-1,,true,,362,751,3,3,https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js,0,0,0
+1733504281162,69,https://practice.expandtesting.com/authenticate-7,304,Not Modified,Thread Group 1-1,,true,,892,778,3,3,https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js,0,0,0
+1733504281227,456,https://practice.expandtesting.com/authenticate-8,200,OK,Thread Group 1-1,text,true,,422768,677,3,3,https://www.googletagmanager.com/gtag/js?id=G-90GRT6N40B,207,0,107
+1733504281232,158,https://practice.expandtesting.com/authenticate-9,200,OK,Thread Group 1-1,text,true,,160235,750,3,3,https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1056034821646296,78,0,0
+1733504281233,463,https://practice.expandtesting.com/authenticate-10,304,Not Modified,Thread Group 1-1,,true,,242,881,3,3,https://practice.expandtesting.com/assets/images/logo.svg,0,0,143
+1733504281237,410,https://practice.expandtesting.com/authenticate-11,304,Not Modified,Thread Group 1-1,,true,,242,904,3,3,https://practice.expandtesting.com/assets/plugins/back-to-top/back-to-top.min.js,0,0,115
+1733504281391,546,https://practice.expandtesting.com/authenticate-12,304,Not Modified,Thread Group 1-1,,true,,242,876,3,3,https://practice.expandtesting.com/assets/js/main.js,0,0,117
+1733504281455,378,https://practice.expandtesting.com/authenticate-13,304,Not Modified,Thread Group 1-1,,true,,242,875,3,3,https://practice.expandtesting.com/script/script.js,0,0,0
+1733504281595,460,https://practice.expandtesting.com/authenticate-14,304,Not Modified,Thread Group 1-1,,true,,113,823,3,3,https://practice.expandtesting.com/socket.io/socket.io.min.js,0,0,159
+1733504268981,4779,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1727577,22445,3,3,null,1414,8300,575
+1733504280487,1753,https://practice.expandtesting.com/authenticate,200,OK,Thread Group 1-2,text,true,,597289,12247,2,2,https://practice.expandtesting.com/secure,454,0,157
+1733504280487,454,https://practice.expandtesting.com/authenticate-0,302,Found,Thread Group 1-2,text,true,,722,823,2,2,https://practice.expandtesting.com/authenticate,454,0,157
+1733504280943,314,https://practice.expandtesting.com/authenticate-1,200,OK,Thread Group 1-2,text,true,,10032,835,2,2,https://practice.expandtesting.com/secure,297,0,0
+1733504281296,295,https://practice.expandtesting.com/authenticate-2,304,Not Modified,Thread Group 1-2,,true,,242,884,2,2,https://practice.expandtesting.com/assets/images/favicon.png,0,0,0
+1733504281298,71,https://practice.expandtesting.com/authenticate-3,304,Not Modified,Thread Group 1-2,,true,,363,753,2,2,https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css,0,0,0
+1733504281299,533,https://practice.expandtesting.com/authenticate-4,304,Not Modified,Thread Group 1-2,,true,,243,890,2,2,https://practice.expandtesting.com/assets/css/main.css?v=da0276bd,0,0,120
+1733504281301,68,https://practice.expandtesting.com/authenticate-5,304,Not Modified,Thread Group 1-2,,true,,341,747,2,2,https://code.jquery.com/jquery-3.6.3.min.js,0,0,0
+1733504281300,69,https://practice.expandtesting.com/authenticate-6,304,Not Modified,Thread Group 1-2,,true,,362,751,2,2,https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js,0,0,0
+1733504281301,72,https://practice.expandtesting.com/authenticate-7,304,Not Modified,Thread Group 1-2,,true,,890,778,2,2,https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js,0,0,0
+1733504281369,448,https://practice.expandtesting.com/authenticate-8,200,OK,Thread Group 1-2,text,true,,422778,677,2,2,https://www.googletagmanager.com/gtag/js?id=G-90GRT6N40B,267,0,142
+1733504281370,400,https://practice.expandtesting.com/authenticate-9,200,OK,Thread Group 1-2,text,true,,160235,750,2,2,https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1056034821646296,224,0,142
+1733504281386,527,https://practice.expandtesting.com/authenticate-10,304,Not Modified,Thread Group 1-2,,true,,242,881,2,2,https://practice.expandtesting.com/assets/images/logo.svg,0,0,119
+1733504281373,514,https://practice.expandtesting.com/authenticate-11,304,Not Modified,Thread Group 1-2,,true,,242,904,2,2,https://practice.expandtesting.com/assets/plugins/back-to-top/back-to-top.min.js,0,0,123
+1733504281592,378,https://practice.expandtesting.com/authenticate-12,304,Not Modified,Thread Group 1-2,,true,,242,876,2,2,https://practice.expandtesting.com/assets/js/main.js,0,0,0
+1733504281770,437,https://practice.expandtesting.com/authenticate-13,304,Not Modified,Thread Group 1-2,,true,,242,875,2,2,https://practice.expandtesting.com/script/script.js,0,0,143
+1733504281818,422,https://practice.expandtesting.com/authenticate-14,304,Not Modified,Thread Group 1-2,,true,,113,823,2,2,https://practice.expandtesting.com/socket.io/socket.io.min.js,0,0,128
+1733504272269,3614,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,1727412,22445,2,2,null,939,6360,311
+1733504282249,3759,https://practice.expandtesting.com/authenticate,200,OK,Thread Group 1-3,text,true,,600182,12888,1,1,https://practice.expandtesting.com/login,449,0,118
+1733504282249,449,https://practice.expandtesting.com/authenticate-0,302,Found,Thread Group 1-3,text,true,,683,827,1,1,https://practice.expandtesting.com/authenticate,449,0,118
+1733504282699,337,https://practice.expandtesting.com/authenticate-1,200,OK,Thread Group 1-3,text,true,,12726,851,1,1,https://practice.expandtesting.com/login,299,0,0
+1733504283472,1773,https://practice.expandtesting.com/authenticate-2,304,Not Modified,Thread Group 1-3,,true,,242,852,1,1,https://practice.expandtesting.com/assets/images/favicon.png,0,0,0
+1733504283473,1751,https://practice.expandtesting.com/authenticate-3,304,Not Modified,Thread Group 1-3,,true,,363,753,1,1,https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css,0,0,0
+1733504283475,2109,https://practice.expandtesting.com/authenticate-4,304,Not Modified,Thread Group 1-3,,true,,243,858,1,1,https://practice.expandtesting.com/assets/css/main.css?v=da0276bd,0,0,1815
+1733504283475,1751,https://practice.expandtesting.com/authenticate-5,304,Not Modified,Thread Group 1-3,,true,,341,747,1,1,https://code.jquery.com/jquery-3.6.3.min.js,0,0,0
+1733504283474,1759,https://practice.expandtesting.com/authenticate-6,304,Not Modified,Thread Group 1-3,,true,,362,751,1,1,https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js,0,0,0
+1733504283474,22,https://practice.expandtesting.com/authenticate-7,304,Not Modified,Thread Group 1-3,,true,,896,778,1,1,https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js,0,0,0
+1733504283497,2104,https://practice.expandtesting.com/authenticate-8,200,OK,Thread Group 1-3,text,true,,422768,677,1,1,https://www.googletagmanager.com/gtag/js?id=G-90GRT6N40B,1901,0,1828
+1733504285241,320,https://practice.expandtesting.com/authenticate-9,200,OK,Thread Group 1-3,text,true,,160234,749,1,1,https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1056034821646296,182,0,106
+1733504285241,410,https://practice.expandtesting.com/authenticate-10,304,Not Modified,Thread Group 1-3,,true,,242,849,1,1,https://practice.expandtesting.com/assets/images/logo.svg,0,0,113
+1733504285246,427,https://practice.expandtesting.com/authenticate-11,304,Not Modified,Thread Group 1-3,,true,,243,846,1,1,https://practice.expandtesting.com/img/auth-login.png,0,0,131
+1733504285249,425,https://practice.expandtesting.com/authenticate-12,304,Not Modified,Thread Group 1-3,,true,,242,872,1,1,https://practice.expandtesting.com/assets/plugins/back-to-top/back-to-top.min.js,0,0,130
+1733504285562,405,https://practice.expandtesting.com/authenticate-13,304,Not Modified,Thread Group 1-3,,true,,242,844,1,1,https://practice.expandtesting.com/assets/js/main.js,0,0,110
+1733504285585,406,https://practice.expandtesting.com/authenticate-14,304,Not Modified,Thread Group 1-3,,true,,242,843,1,1,https://practice.expandtesting.com/script/script.js,0,0,112
+1733504285602,406,https://practice.expandtesting.com/authenticate-15,304,Not Modified,Thread Group 1-3,,true,,113,791,1,1,https://practice.expandtesting.com/socket.io/socket.io.min.js,0,0,112
+1733504275648,6170,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,1730414,23086,1,1,null,933,4193,304
