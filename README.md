@@ -8,19 +8,31 @@ This repository contains a performance testing project created with **Apache JMe
 ## **Screenshots**
 
 ### 1. **JMeter Test Plan Setup**
-![JMeter Test Plan Setup](screenshots/test_setup.png)
+![JMeter Test Plan Setup](Screenshot/test_plan.PNG)
 
 ### 2. **HTML Report Summary**
-![HTML Report Summary](screenshots/report_summary.png)
+![thread group](Screenshot/thread group.PNG)
 
----
+### 2. **HTML Report Summary**
+![HTML Report Summary](Screenshot/report_summary.png)
 
-## **Project Structure**
-Performance-Testing-Project/ │ 
-├── Performance_Test_Plan.jmx 
+### 2. **HTML Report Summary**
+![HTML Report Summary](Screenshot/report_summary.png)
 
+### 2. **HTML Report Summary**
+![HTML Report Summary](Screenshot/report_summary.png)
 
----
+### 2. **HTML Report Summary**
+![HTML Report Summary](Screenshot/report_summary.png)
+
+### 2. **HTML Report Summary**
+![HTML Report Summary](Screenshot/report_summary.png)
+
+### 2. **HTML Report Summary**
+![HTML Report Summary](Screenshot/report_summary.png)
+
+### 2. **HTML Report Summary**
+![HTML Report Summary](Screenshot/report_summary.png)
 
 ## **Features**
 - Load testing with configurable user threads and ramp-up time.
@@ -44,7 +56,6 @@ Performance-Testing-Project/ │
 2. Place the `README.md` file in your repository root.
 3. Ensure you include the referenced files (`Performance_Test_Plan.jmx`, `test_data.csv`, `sample_results.csv`, and `HTML_Report/`) in the appropriate directories.
 
-Let me know if you'd like further refinements or additional details!
 
 ## **How to Execute the Test**
 
@@ -84,13 +95,6 @@ After running the test, follow these steps to generate a detailed HTML performan
 
 ---
 
-### **Steps to Use**
-1. Add your screenshots to the `screenshots/` directory.
-   - Example file names:
-     - `test_setup.png`
-     - `report_summary.png`
-2. Copy and save the above code in a file named `README.md` in your repository root.
-3. Push your repository to GitHub.
 
 
 
